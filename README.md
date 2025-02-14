@@ -3,24 +3,17 @@
 **Web3 Builder | Build Mini, Scale Big**
 
 ## 🔧 Tech Stack  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  
-![Hardhat](https://img.shields.io/badge/Hardhat-%23f1c40f.svg?style=flat&logo=hardhat&logoColor=black)  
-![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=flat&logo=foundry&logoColor=white)  
-![Ethers.js](https://img.shields.io/badge/Ethers.js-%2300ffff.svg?style=flat&logo=ethers.js&logoColor=black)  
-![Wagmi](https://img.shields.io/badge/Wagmi-%23000000.svg?style=flat&logo=ethereum&logoColor=white)  
-- **Frontend:** React, Next.js, TailwindCSS, shadcn/ui  
-- **Backend:** Node.js, Express, GraphQL, PostgreSQL  
-- **Tools & Infra:** IPFS, The Graph, Alchemy, Infura, Moralis  
-- **Other:** Rust (learning), zk-SNARKs (exploring)
+### Frontend  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Shadcn/UI-121212?style=for-the-badge" height="30"/>
+</p>
 
 ## 📌 Current Projects  
 - **OnChain Speaker** 🎙️ - POS system for crypto payments with real-time voice notifications.  
 - **[GEN0 Project]** ⚡ - AI + Blockchain Hackathon project.  
 - **[Web3 Dev Profile UI]** 🖥️ - Minimal & Terminal-Style portfolio UI.  
 
-## 📫 Connect with me  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-- Blog: [yourblog.dev](https://yourblog.dev)  
-
-💡 Always open to collaboration and new ideas in the Web3 space!
+ Kien on the way....
